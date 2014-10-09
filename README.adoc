@@ -1,0 +1,18 @@
+== Sandbox Project with Angular, using D3 for visualizations
+
+=== Dependencies
+* bower
+* generator-angular
+* grunt-cli
+* karma
+* npm (use to install all of these packages)
+* yo
+
+=== Project Init Steps Taken
+
+.Using Bash
+
+[source,bash]
+mkdir angular-d3 && cd $_
+yo angular   # Entered yes for all options
+grunt karma  # Ran default tests successfully
