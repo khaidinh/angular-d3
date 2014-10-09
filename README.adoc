@@ -13,9 +13,12 @@
 .Using Bash
 
 [source,bash]
+----
 mkdir angular-d3 && cd $_
 yo angular   # Entered yes for all options
 grunt karma  # Ran default tests successfully
+----
+
 NOTE: Used http://newtriks.com/2013/06/11/automating-angularjs-with-yeoman-grunt-and-bower/[Newtriks blog] as a guide
 
 
