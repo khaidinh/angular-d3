@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e70e7a1e-0e71-47c8-863c-2d3858cc199c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/angular-d3.iml" afterPath="$PROJECT_DIR$/.idea/angular-d3.iml" />
-    </list>
+    <list default="true" id="e70e7a1e-0e71-47c8-863c-2d3858cc199c" name="Default" comment="" />
     <ignored path="angular-d3.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -91,11 +89,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e70e7a1e-0e71-47c8-863c-2d3858cc199c" name="Default" comment="" />
